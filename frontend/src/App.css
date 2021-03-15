@@ -1,0 +1,75 @@
+body{
+  background-color: 	#768997;
+}
+.App{
+  margin-left: 25vw;
+  margin-top: 1vh;
+  width: 50vw;
+  height: 80vh;
+  background-color: #22516a;
+  border-radius: 20px;
+  box-shadow: 5px 20px 20px black;
+  text-align: center;
+  padding: 1vh;
+}
+h1{
+  color:#cfcfc9;
+  font-size: 3em;
+  text-shadow:5px 20px 20px black; 
+  padding: 3vh;
+}
+input{
+  width:90%;
+  padding: 2vh;
+  margin:2vh;
+  background-color: 	#a5adb0;
+  border:none;
+  box-shadow: 5px 5px 10px black;
+  border-radius: 5px;
+  font-size: 1em;
+}
+input:hover{
+  border:none;
+  cursor: pointer;
+  background-color: #cfcfc9;
+
+}
+.Home{
+  text-align: center;
+  width: 50%;
+  height: 60vh;
+  padding: 2px;
+  background-color: #22516a;
+  box-shadow: 5px 5px 10px black;
+  border:10px;
+  margin-left:25%;
+  margin-top: 20vh;
+
+}
+
+button{
+  width:15vw;
+  padding: 2vh;
+  margin:2vh;
+  margin-top: 4vh;
+  background-color:#cfcfc9;
+  border:none;
+  box-shadow: 5px 5px 10px black;
+  border-radius: 5px;
+  font-size: 1em;
+  font-size:1em;
+  outline:none;
+
+}
+.pop{
+  
+}
+span{
+  color:#cfcfc9;
+  text-decoration: none;
+}
+span:hover{
+  text-decoration: none;
+  color: #a5adb0;
+  font-size: 1em ;
+}
